@@ -25,7 +25,7 @@ If you want to use `passport js` and OAuth 2.0 introspection, head over to
 
 This is the "client library" for the ZITADEL API. It contains the compiled
 proto files from the original ZITADEL repository and therefore helps to
-access the API and manage ressources. Also, it contains helpers to
+access the API and manage resources. Also, it contains helpers to
 authenticate a given service account against ZITADEL.
 
 To summarize:
